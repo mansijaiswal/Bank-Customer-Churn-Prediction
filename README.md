@@ -9,6 +9,12 @@
 ### Objective
 The objective of this project is to draw meaningful insights from the data and find the possible reasons leading to customer churn from the bank. We wish to develop a classification model which predicts whether a customer will leave the bank or not on the basis of the several explanatory variables given in the dataset.
 
+### Tool
+Python will be used as the programming language.
+
+### Technique
+Since the problem is a classification one, we will train a Logistic Regression model on the data and make predictions.
+
 ### Dataset
 The dataset has been collected from Kaggle.
 
