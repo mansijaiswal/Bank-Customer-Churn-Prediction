@@ -2,8 +2,8 @@
 ## Classification Model
 
 ### Team Members:
-* Mansi Jaiswal
 * Anupriya Sharma
+* Mansi Jaiswal
 * Ritu Malpani
 
 ### Objective:
