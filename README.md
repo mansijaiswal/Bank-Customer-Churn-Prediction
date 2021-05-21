@@ -1,7 +1,7 @@
 # Bank Customer Churn Prediction
 ## Classification Model
 
-Team Members:
+### Team Members:
 * Mansi Jaiswal
 * Anupriya Sharma
 * Ritu Malpani
