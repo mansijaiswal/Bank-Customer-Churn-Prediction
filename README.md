@@ -8,6 +8,8 @@
 
 ### Objective:
 The objective of this project is to draw meaningful insights from the data and find the possible reasons leading to customer churn from the bank. We wish to develop a classification model which predicts whether a customer will leave the bank or not on the basis of the several explanatory variables given in the dataset.
+It is very important to reduce churn since the cost incurred to retain a customer is lower than the cost incurred to acquire a new one.
+Upon knowing the factors contributing to churn, the bank could improve upon its services and reduce churn. The model will help the bank to know the probability of a customer leaving the bank apriori and could take necessary steps to retain a customer with a higher probability of churning out.
 
 ### Tool:
 Python will be used as the programming language.
