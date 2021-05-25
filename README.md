@@ -39,4 +39,5 @@ The dataset has been collected from Kaggle.
 ### Hypothesis:
 * Do people with 0.00 account balance have higher probability of leaving the bank?
 * Does Gender affect churn?
-
+* Are customers with low credit score more likely to churn?
+* Does number of products purchased by customer affect churn?
