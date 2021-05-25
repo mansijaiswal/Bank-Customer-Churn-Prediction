@@ -32,4 +32,8 @@ The dataset has been collected from Kaggle.
 * HasCrCard — denotes whether or not a customer has a credit card
 * IsActiveMember — whether the customer is active or not (0/1)
 * EstimatedSalary — salaries of the customers
+
+### Hypothesis
+* Do people with 0.00 account balance have higher probability of leaving the bank?
+* Does Gender affect churn?
 * Exited — whether or not the customer left the bank
