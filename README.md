@@ -46,4 +46,5 @@ The dataset has been collected from Kaggle.
 * Is inactiveness of a member sign of their churn?
 * Does the number of years the customer has been a client of the bank affect churn?
 *  Are customers with low salary more likely to churn?
-*Do people with a credit card less likely to leave the bank?
+*  Are people with a credit card less likely to leave the bank?
+
