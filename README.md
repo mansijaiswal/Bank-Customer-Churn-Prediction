@@ -41,9 +41,9 @@ The dataset has been collected from Kaggle.
 * Does Gender affect churn?
 * Are customers with low credit score more likely to churn?
 * Does number of products purchased by customer affect churn?
+*  Does customer's location affect their decision of leaving the bank?
 * Is young generation more likely to churn?
- Do people with a credit card less likely to leave the bank?
- Are customers with low salary more likely to churn?
- Does the number of years the customer has been a client of the bank affect churn?
- Does customer's location affect their decision of leaving the bank?
-Is inactiveness of a member sign of their churn?
+* Is inactiveness of a member sign of their churn?
+* Does the number of years the customer has been a client of the bank affect churn?
+*  Are customers with low salary more likely to churn?
+*Do people with a credit card less likely to leave the bank?
