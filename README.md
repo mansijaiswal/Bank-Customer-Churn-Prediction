@@ -19,7 +19,8 @@ Python will be used as the programming language.
 Since the problem is a classification one, we will train a Logistic Regression model on the data and make predictions.
 
 ### Dataset:
-The dataset has been collected from Kaggle.
+The dataset has been collected from Kaggle the link of which is given below.
+https://www.kaggle.com/mathchi/churn-for-bank-customers
 
 ### Data Description:
 * RowNumber — corresponds to the record (row) number
