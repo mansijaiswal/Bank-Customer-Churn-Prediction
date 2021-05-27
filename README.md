@@ -20,6 +20,7 @@ Since the problem is a classification one, we will train a Logistic Regression m
 
 ### Dataset:
 The dataset has been collected from Kaggle the link of which is given below.
+
 https://www.kaggle.com/mathchi/churn-for-bank-customers
 
 ### Data Description:
