@@ -15,11 +15,8 @@ Upon knowing the factors contributing to churn, the bank could improve upon its 
 ### Tool:
 Python will be used as the programming language.
 
-### Technique:
-Since the problem is a classification one, we will train a Logistic Regression model on the data and make predictions.
-
 ### Dataset:
-The dataset has been collected from Kaggle the link of which is given below.
+The dataset has been collected from Kaggle. The link is given below:
 
 https://www.kaggle.com/mathchi/churn-for-bank-customers
 
@@ -44,10 +41,23 @@ https://www.kaggle.com/mathchi/churn-for-bank-customers
 * Does Gender affect churn?
 * Are customers with low credit score more likely to churn?
 * Does number of products purchased by customer affect churn?
-*  Does customer's location affect their decision of leaving the bank?
+* Does customer's location affect their decision of leaving the bank?
 * Is younger generation more likely to churn?
 * Is inactiveness of a member sign of their churn?
 * Does the number of years the customer has been a client of the bank affect churn?
-*  Are customers with low salary more likely to churn?
-*  Are people with a credit card less likely to leave the bank?
+* Are customers with low salary more likely to churn?
+* Are people with a credit card less likely to leave the bank?
 
+### Discussion Notes
+#### 27.05.2021
+* Perform EDA on the dataset
+* Search for the various statistical tests which can be applied
+* Check the assumptions of the test
+* Check what possible models can be used and what are the assumptions
+
+### Plan of action
+We now wish to work on the following aspects:
+* Deciding the metric to be used
+* Building a logistic regression model and checking it's assumptions
+* Building a decision tree
+* Comparing the 2 models with respect to the metric
