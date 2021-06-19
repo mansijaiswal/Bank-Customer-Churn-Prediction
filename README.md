@@ -29,7 +29,7 @@ https://www.kaggle.com/mathchi/churn-for-bank-customers
 * Gender — Male/Female
 * Age — age of the customer
 * Tenure — refers to the number of years that the customer has been a client of the bank
-* Balance — account balance 
+* Balance — account balance of customers
 * NumOfProducts — refers to the number of products that a customer has purchased through the bank.
 * HasCrCard — denotes whether or not a customer has a credit card 
 * IsActiveMember — whether the customer is active or not (0/1)
