@@ -31,10 +31,10 @@ https://www.kaggle.com/mathchi/churn-for-bank-customers
 * Tenure — refers to the number of years that the customer has been a client of the bank
 * Balance — account balance 
 * NumOfProducts — refers to the number of products that a customer has purchased through the bank.
-* HasCrCard — denotes whether or not a customer has a credit card
+* HasCrCard — denotes whether or not a customer has a credit card 
 * IsActiveMember — whether the customer is active or not (0/1)
 * EstimatedSalary — salaries of the customers
-* Exited — whether or not the customer left the bank
+* Exited — whether or not the customer left the bank 
 
 ### Hypothesis:
 * Do people with 0.00 account balance have higher probability of leaving the bank?
@@ -42,7 +42,7 @@ https://www.kaggle.com/mathchi/churn-for-bank-customers
 * Are customers with low credit score more likely to churn?
 * Does number of products purchased by customer affect churn?
 * Does customer's location affect their decision of leaving the bank?
-* Is younger generation more likely to churn?
+* Are young people more likely to churn?
 * Is inactiveness of a member sign of their churn?
 * Does the number of years the customer has been a client of the bank affect churn?
 * Are customers with low salary more likely to churn?
